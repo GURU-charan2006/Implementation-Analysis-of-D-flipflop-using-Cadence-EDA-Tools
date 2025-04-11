@@ -53,10 +53,7 @@ The aim is to design, implement, and analyze a D flip-flop using Cadence EDA too
 ![Screenshot 2025-04-11 152945](https://github.com/user-attachments/assets/473fbd43-a5dd-404c-8314-200589e8776c)
 
 
-
 ![Screenshot 2025-04-11 153143](https://github.com/user-attachments/assets/185eed4c-b76b-42bb-816a-591f723f43dd)
-
-
 
 
 ## Output
