@@ -1,6 +1,4 @@
-![Screenshot 2025-04-11 152945](https://github.com/user-attachments/assets/145d7beb-e521-4039-8760-cc49e4745083)# Ex No: 03 - Implementation & Analysis of D Flip-Flop using Cadence EDA Tools
-
-## Aim
+Aim
 The aim is to design, implement, and analyze a D flip-flop using Cadence EDA tools, ensuring accurate sequential logic operation through waveform analysis and performance verification.
 
 ## Tools Required
