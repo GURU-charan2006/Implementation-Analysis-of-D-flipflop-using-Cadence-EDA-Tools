@@ -1,4 +1,4 @@
-### Implementation-Analysis-of-D-flipflop-using-Cadence-EDA-Tools
+## IMPLEMENTATION-ANALYSIS-OF-D-FLIPFLOP-USING-CADENCE-EDA-TOOLS
 ## BADIMALA GURUCHARAN (212223060026)
 ## Aim
 The aim is to design, implement, and analyze a D flip-flop using Cadence EDA tools, ensuring accurate sequential logic operation through waveform analysis and performance verification.
